@@ -3,7 +3,9 @@ import './App.css';
 
 function App() {
   return (
-     <ChatEngine
+    <>
+    
+    <ChatEngine
       height="100vh"
       projectID="
       48481b44-8c17-432b-a3a6-dfd124543f15"
@@ -12,6 +14,9 @@ function App() {
      
      
      />
+     <h3>hello </h3>
+    </>
+    
   );
 }
 
